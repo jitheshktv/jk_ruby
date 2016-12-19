@@ -19,6 +19,8 @@
   # gem install test_gem --source <machine_name>:8808
 
 # https://quickleft.com/blog/engineering-lunch-series-step-by-step-guide-to-building-your-first-ruby-gem/
+# https://code.tutsplus.com/tutorials/gem-creation-with-bundler--net-25281
+# http://icebergist.com/posts/creating-and-publishing-a-ruby-gem/
 
 # To provide the users with executables, you can use ocra. Once you package using ocra, it will give you an executable,
 # which you can execute w/o installing Ruby.
